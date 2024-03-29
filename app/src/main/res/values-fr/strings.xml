@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pokemon-api</string>
+    <string name="pokemonAttack">attaque</string>
+    <string name="pokemonName">nom du pokemon</string>
+    <string name="pokemonImage">image de</string>
+    <string name="pokemonSpeed">vitesse</string>
+    <string name="pokemonType">types</string>
+    <string name="pokemonDefence">defense</string>
+    <string name="PokemonSpecialAttack">attaque spéciale</string>
+    <string name="pokemonSpecialDefence">attaque spéciale</string>
+    <string name="search">barre de recherche</string>
+</resources>

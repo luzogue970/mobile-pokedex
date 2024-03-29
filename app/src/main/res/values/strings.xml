@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pokemon-api</string>
+    <string name="pokemonAttack">attack</string>
+    <string name="pokemonName">pokemon Name</string>
+    <string name="pokemonImage">image of</string>
+    <string name="pokemonSpeed">speed</string>
+    <string name="pokemonType">types</string>
+    <string name="pokemonDefence">defence</string>
+    <string name="PokemonSpecialAttack">special attack</string>
+    <string name="pokemonSpecialDefence">special defence</string>
+    <string name="search">search bar</string>
+</resources>
